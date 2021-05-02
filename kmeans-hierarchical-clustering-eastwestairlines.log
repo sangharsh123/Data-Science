@@ -1,0 +1,273 @@
+[110.44189995  83.11377294  64.82616793  63.48944763  61.96605949
+
+  60.17942085  51.82140955  38.09870033]
+
+[30.50115845 17.27406665 10.5087073  10.07979485  9.60188179  9.05617078
+
+  6.71532505  3.62968484]
+
+[23.30644253 14.98078096  6.73641543  4.71018421  4.35528647]
+
+[60.47067269 24.98398618  5.05185116  2.46983879  2.11167109]
+
+model1
+
+model2
+
+For n_clusters = 2 The average silhouette_score is : 0.3639788167896175
+
+For n_clusters = 3 The average silhouette_score is : 0.34038142310682834
+
+For n_clusters = 4 The average silhouette_score is : 0.33811895596476305
+
+For n_clusters = 5 The average silhouette_score is : 0.34885887029453005
+
+For n_clusters = 6 The average silhouette_score is : 0.3665724589453308
+
+For n_clusters = 7 The average silhouette_score is : 0.26773101005827354
+
+For n_clusters = 8 The average silhouette_score is : 0.28284236665851537
+
+For n_clusters = 9 The average silhouette_score is : 0.2708765675709241
+
+model3
+
+model4
+
+For n_clusters = 2 The average silhouette_score is : 0.1476267446192011
+
+For n_clusters = 3 The average silhouette_score is : 0.1476267446192011
+
+For n_clusters = 4 The average silhouette_score is : 0.1476267446192011
+
+For n_clusters = 5 The average silhouette_score is : 0.1476267446192011
+
+For n_clusters = 6 The average silhouette_score is : 0.1476267446192011
+
+For n_clusters = 7 The average silhouette_score is : 0.1476267446192011
+
+For n_clusters = 8 The average silhouette_score is : 0.1476267446192011
+
+For n_clusters = 9 The average silhouette_score is : 0.1476267446192011
+
+For n_clusters = 2 The average silhouette_score with linkage- ward : 0.3139605594950567
+
+For n_clusters = 2 The average silhouette_score with linkage- complete : 0.8258402005485834
+
+For n_clusters = 2 The average silhouette_score with linkage- average : 0.8258402005485834
+
+For n_clusters = 2 The average silhouette_score with linkage- single : 0.7595573832017466
+
+
+
+For n_clusters = 3 The average silhouette_score with linkage- ward : 0.3099513555846735
+
+For n_clusters = 3 The average silhouette_score with linkage- complete : 0.7965798717740988
+
+For n_clusters = 3 The average silhouette_score with linkage- average : 0.7965798717740988
+
+For n_clusters = 3 The average silhouette_score with linkage- single : 0.7592925058168967
+
+
+
+For n_clusters = 4 The average silhouette_score with linkage- ward : 0.3282481973781311
+
+For n_clusters = 4 The average silhouette_score with linkage- complete : 0.6569044547102614
+
+For n_clusters = 4 The average silhouette_score with linkage- average : 0.6940154925011897
+
+For n_clusters = 4 The average silhouette_score with linkage- single : 0.5782302910327523
+
+
+
+For n_clusters = 5 The average silhouette_score with linkage- ward : 0.3218497682247797
+
+For n_clusters = 5 The average silhouette_score with linkage- complete : 0.5895211202883035
+
+For n_clusters = 5 The average silhouette_score with linkage- average : 0.6680397435345209
+
+For n_clusters = 5 The average silhouette_score with linkage- single : 0.5780925797482983
+
+
+
+For n_clusters = 6 The average silhouette_score with linkage- ward : 0.3365729455802158
+
+For n_clusters = 6 The average silhouette_score with linkage- complete : 0.6017997132632824
+
+For n_clusters = 6 The average silhouette_score with linkage- average : 0.6552479417757123
+
+For n_clusters = 6 The average silhouette_score with linkage- single : 0.5766100945284393
+
+
+
+For n_clusters = 7 The average silhouette_score with linkage- ward : 0.23686100392100004
+
+For n_clusters = 7 The average silhouette_score with linkage- complete : 0.6070381387662968
+
+For n_clusters = 7 The average silhouette_score with linkage- average : 0.6523313170802647
+
+For n_clusters = 7 The average silhouette_score with linkage- single : 0.5774252640782925
+
+
+
+For n_clusters = 8 The average silhouette_score with linkage- ward : 0.23276462445078655
+
+For n_clusters = 8 The average silhouette_score with linkage- complete : 0.6026762863226718
+
+For n_clusters = 8 The average silhouette_score with linkage- average : 0.6481701789160177
+
+For n_clusters = 8 The average silhouette_score with linkage- single : 0.5741494479569035
+
+
+
+For n_clusters = 2 The average silhouette_score with linkage- ward : 0.45263516644787427
+
+For n_clusters = 2 The average silhouette_score with linkage- complete : 0.5857808960475936
+
+For n_clusters = 2 The average silhouette_score with linkage- average : 0.5003973034034863
+
+For n_clusters = 2 The average silhouette_score with linkage- single : 0.6061073734453644
+
+
+
+For n_clusters = 3 The average silhouette_score with linkage- ward : 0.3739125364654645
+
+For n_clusters = 3 The average silhouette_score with linkage- complete : 0.4542833655116024
+
+For n_clusters = 3 The average silhouette_score with linkage- average : 0.45064261018788865
+
+For n_clusters = 3 The average silhouette_score with linkage- single : 0.5029366855064072
+
+
+
+For n_clusters = 4 The average silhouette_score with linkage- ward : 0.36547786997315546
+
+For n_clusters = 4 The average silhouette_score with linkage- complete : 0.4561547100712364
+
+For n_clusters = 4 The average silhouette_score with linkage- average : 0.3946568858456751
+
+For n_clusters = 4 The average silhouette_score with linkage- single : 0.28360363211949013
+
+
+
+For n_clusters = 5 The average silhouette_score with linkage- ward : 0.3581084898031202
+
+For n_clusters = 5 The average silhouette_score with linkage- complete : 0.44080540269805196
+
+For n_clusters = 5 The average silhouette_score with linkage- average : 0.34750893605764976
+
+For n_clusters = 5 The average silhouette_score with linkage- single : 0.28092188448134836
+
+
+
+For n_clusters = 6 The average silhouette_score with linkage- ward : 0.3713800645711787
+
+For n_clusters = 6 The average silhouette_score with linkage- complete : 0.38572273494486903
+
+For n_clusters = 6 The average silhouette_score with linkage- average : 0.2766820814868125
+
+For n_clusters = 6 The average silhouette_score with linkage- single : 0.12519526833308936
+
+
+
+For n_clusters = 7 The average silhouette_score with linkage- ward : 0.353306007353676
+
+For n_clusters = 7 The average silhouette_score with linkage- complete : 0.3604618081021532
+
+For n_clusters = 7 The average silhouette_score with linkage- average : 0.25130821023106226
+
+For n_clusters = 7 The average silhouette_score with linkage- single : 0.1255636927021612
+
+
+
+For n_clusters = 8 The average silhouette_score with linkage- ward : 0.35521356195426573
+
+For n_clusters = 8 The average silhouette_score with linkage- complete : 0.36654365904308384
+
+For n_clusters = 8 The average silhouette_score with linkage- average : 0.4170401637909488
+
+For n_clusters = 8 The average silhouette_score with linkage- single : 0.1237539961944779
+
+
+
+(3999,)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+
+[NbConvertApp] Writing 662791 bytes to __notebook__.ipynb
+
+[NbConvertApp] Converting notebook __notebook__.ipynb to html
+
+[NbConvertApp] Support files will be in __results___files/
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Making directory __results___files
+
+[NbConvertApp] Writing 412826 bytes to __results__.html
